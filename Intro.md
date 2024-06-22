@@ -32,7 +32,7 @@ Wieviele Mitarbeiter ein SOC hat kann je nach Unternehmungsgröße varrieren.
 ![alt text](image-1.png)
 
 
-Vorbereiten und Verhinden
+**Vorbereiten und Verhinden**
 
 
 
@@ -41,4 +41,19 @@ Als Junior Security Analyst solltest du immer auf dem Laufenden bleiben. Es ist 
 Verhinderungsmethoden beinhalten das Sammeln von Informationen der neuesten Bedrohungen, Gruppen und deren TTPs (Tactics, Techniques, Procedures). Ausserdem zählen dazu auch Wartungen wie das Updaten der Firewall Signaturen, Beheben von Schwachstellen in System, Block und Safelisting von Anwendungen, Email Adressen und IP Adressen.
 
 Zur besseren Verständnis von TTPs kann man sich bspw. den Alarm von der APT40 (Chinesische Gruppe bzw. dauerhafte und fortschrittliche Bedrohung) der Cybersecurity & Infrastructure Agency CISA anschauen [Hier](https://us-cert.cisa.gov/ncas/alerts/aa21-200a)
+
+
+
+**Überwachen und Untersuchen**
+
+Das SOC Team nutzt proaktiv ein SIEM (Security Information and Event Mangement), ein EDR (Endpoint Detection and Response) zur Überwachung von Verdächtigen und Bösartigen Netzwerkaktivitäten. Als SOC Analyst lernst du Alarme zu priorisieren basierend auf den Leveln Low, Medium, High und Critical. Natürlich wäre es ratsam, sich dem Critical Alarm als erstes anzunehmen. Mit den entsprechenden Sicherheitstools hast du die besten Chancen eine Gefahr zu minimieren.
+
+Junior SOC Analysten spielen eine bedeutende Rolle im Untersuchungsprozess. Sie führen eine Triage bei einem aktuellen Alarm durch indem sie entsprechende Attacken erkunden und verstehen, um letztendlich schlimmeres zu verhindern. Während der Untersuchung ist es wichtig folgende W-Fragen zu stellen "Wie, Wann und Wieso?". Security Analysten finden die Antworten, indem sie sich tief in Logs und Alarmmeldungen vergraben. 
+
+
+**Reaktion**
+
+Nach der Untersuchung koordiniert und übernimmt das SOC Team die nötigen Aktionen auf dem komprometierten System, wie das isolieren des Systems vom Netzwerk, beenden der bedrohlichen Prozesse, löschen von Daten und so weiter.
+
+
 

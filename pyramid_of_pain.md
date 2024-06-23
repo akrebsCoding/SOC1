@@ -75,3 +75,20 @@ Man kann die Webseite sehen, zu der der Shortener Link hinführt indem man ein d
 
 **Host Artifacts (Annoying)**
 
+Auf diesem Level kann es für den Angreifer ganz schön frustrierend sein, wenn er entdeckt wird. Er muss seine Tools und Methoden ändern und von vorne anfangen. Das ist natürlich sehr Zeitraubend und er benötigt eventuell mehr Ressourcen bei seinen Angreiftools.
+
+Unter Host Artefakten versteht man Spuren die ein Angreifer auf dem System hinterlässt, wie bspw. Registry Einträge, verdächtige Prozessausführungen, Angriffsmuster oder Indicators of Compromise, Dateien die von bösartigen Programmen erstellt werden oder irgendetwas exklusives betreffend der aktuellen Bedrohung.
+
+*Verdächtige Prozessausführung in Word:*
+
+![alt text](image-4.png)
+
+Verdächtige Events gefolgt von verdächtigen Start eines Programms:
+
+![alt text](image-5.png)
+
+Die Dateien die von einem Verdächtigen Akteur verändert/erstellt wurde:
+
+![alt text](image-6.png)
+
+**Network Artifacts (Annoying)**
